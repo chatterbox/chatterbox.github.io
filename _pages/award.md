@@ -1,3 +1,4 @@
-* China Scholarship Council 2022.10
-* HUAWEI CLOUD EI Contest 2020 Autonomous Driving Cup: Certification of Merit 2020.10
-* First Class Master Scholarship of Northeastern University (20%) 2019.9
+* Outstanding Researcher from THERS Interdisciplinary Frontier Next Generation Researcher 2023.4
+* THERS Interdisciplinary Frontier Next Generation Researcher 2022.4
+* Graduate Program For Lifestyle Revolution Based on Transdisciplinary Mobility Innovation 2022.4
+* Ritsumeikan University SEISEKI-YUSHUISHA Scholarship
