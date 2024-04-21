@@ -3,5 +3,7 @@
 * 2017.9 - 2019.9
   B.E Ritsumeikan University, Shiga, Japan
 * 2015.9 - 2017.9
-  Dalian University of Technology, Dalian, China
+  B.E Dalian University of Technology, Dalian, China
+* 2015.9 - 2017.9
+  B.A Dalian University of Technology, Dalian, China
  
