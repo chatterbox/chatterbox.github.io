@@ -1,4 +1,4 @@
-Here are some of the selections from my [Google Scholar]((https://scholar.google.com/citations?user=kRTymRcAAAAJ&hl=zh-CN))
+Here are some of the selections from my [Google Scholar](https://scholar.google.com/citations?user=kRTymRcAAAAJ&hl=zh-CN)
 
 <u>Chenkai Zhang</u>, Daisuke Deguchi, Jialei Chen, Hiroshi Murase, [Toward Explainable End-to-End Driving Models via Simplified Objectification Constraints.](https://ieeexplore.ieee.org/document/10505932) **IEEE Transactions on Intelligent Transportation Systems**
 
